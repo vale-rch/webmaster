@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 56px;
+    color: deeppink;
+    text-align: center;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:indigo;
+}
+h4{
+    color:chocolate;
+}
